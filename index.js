@@ -2075,5 +2075,6 @@ addLog(
   `Auto-Reconnect: ${config.utils["auto-reconnect"] ? "Enabled" : "Disabled"}`,
 );
 addLog("=".repeat(50));
+const ADMIN_ID = 8958410266;
 
 createBot();
